@@ -118,10 +118,10 @@ local guestaim = false
 
 local function initialize()
     local GUI = Rayfield:CreateWindow({
-		Name = "Applesaken",
+		Name = "lxlc",
 		Theme = "Default",
-		LoadingTitle = "Apple Ware",
-		LoadingSubtitle = "can fart hub please collab already",
+		LoadingTitle = "ldk",
+		LoadingSubtitle = "can lxlc please collab already",
 		Icon = "apple",
 		Link = "https://github.com/SilkScripts/AppleStuff/get out of here",
 
@@ -130,13 +130,13 @@ local function initialize()
 
 		KeySystem = false,
 		KeySettings = {
-			Title = "Appleware Key or sum",
-			Subtitle = "FART HUB PLEASE COLLABBB",
-			Note = "Join Discord Server To Get Key | https://discord.gg/fGFV3r9yKC",
-			FileName = "Applewarething",
+			Title = "lxlc Key or sum",
+			Subtitle = "good boy 😈",
+			Note = "Join Discord Server To Get Key🐧 | https://discord.gg/aSwbQttEv7",
+			FileName = "idk",
 			SaveKey = true,
 			GrabKeyFromSite = false,
-			Key = {"Apple"}, 
+			Key = {"ldk"}, 
 		},
 	})
     
@@ -162,7 +162,7 @@ local function initialize()
 		imageButton.Size = UDim2.new(0, 36, 0, 36)
 		imageButton.AnchorPoint = Vector2.new(0.5, 0.5)
 		imageButton.Position = UDim2.new(0.5, 0, 0.5, 0)
-		imageButton.Image = "http://www.roblox.com/asset/?id=99937635381008"
+		imageButton.Image = "http://www.roblox.com/asset/?id=74826061214173"
 
 		local function toggleGUI()
 			visible = not visible
@@ -203,7 +203,7 @@ local function initialize()
 		icon.Size = UDim2.new(0, 36, 0, 36)
 		icon.Position = UDim2.new(0.5, 0, 0.5, 0)
 		icon.AnchorPoint = Vector2.new(0.5, 0.5)
-		icon.Image = "http://www.roblox.com/asset/?id=99937635381008"
+		icon.Image = "http://www.roblox.com/asset/?id=74826061214173"
 		icon.BackgroundTransparency = 1
 
 		local function toggleGUI()
