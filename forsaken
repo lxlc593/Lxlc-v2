@@ -122,7 +122,7 @@ local function initialize()
 		Theme = "Default",
 		LoadingTitle = "ldk",
 		LoadingSubtitle = "can lxlc please collab already",
-		Icon = "apple",
+		Icon = "Tv",
 		Link = "https://github.com/SilkScripts/AppleStuff/get out of here",
 
 		DisableBuildWarnings = true,
@@ -132,7 +132,7 @@ local function initialize()
 		KeySettings = {
 			Title = "lxlc Key or sum",
 			Subtitle = "good boy 😈",
-			Note = "Join Discord Server To Get Key🐧 | https://discord.gg/aSwbQttEv7",
+			Note = "Join Discord Server To Get Key🐧 | ldk",
 			FileName = "idk",
 			SaveKey = true,
 			GrabKeyFromSite = false,
